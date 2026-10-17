@@ -21,7 +21,7 @@ The system can:
 
 ## Technologies & Environment Setup
 
-* **Python Version:** Python 3.10+ (tested up to Python 3.14)
+* **Python Version:** Python 3.10
 * **Core Libraries:** OpenCV, DeepFace, TensorFlow
 
 ### Installation
